@@ -16,26 +16,26 @@
 //     console.log('Juft son');
 // }
 
-3-masala
+// 3-masala
 
-let a = 4;
+// let a = 4;
 
-if(a%2==0){
-    console.log('Juft son');
-} else{
-    console.log('Toq son');
-}
-
-// 4-masala
-
-// let a = 10;
-// let b = 4;
-
-// if (a > 0 && b > 0) {
-//   console.log("True");
-// } else {
-//   console.log("False");
+// if(a%2==0){
+//     console.log('Juft son');
+// } else{
+//     console.log('Toq son');
 // }
+
+4-masala
+
+let a = 10;
+let b = 4;
+
+if (a > 0 && b > 0) {
+  console.log("True");
+} else {
+  console.log("False");
+}
 
 // 5-masala
 // let a = 3;
