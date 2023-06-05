@@ -26,16 +26,16 @@
 //     console.log('Toq son');
 // }
 
-4-masala
+// 4-masala
 
-let a = 10;
-let b = 4;
+// let a = 10;
+// let b = 4;
 
-if (a > 0 && b > 0) {
-  console.log("True");
-} else {
-  console.log("False");
-}
+// if (a > 0 && b > 0) {
+//   console.log("True");
+// } else {
+//   console.log("False");
+// }
 
 // 5-masala
 // let a = 3;
@@ -131,5 +131,28 @@ if (a > 0 && b > 0) {
 //   console.log(a - 1);
 // }
 
-    
+// 13-masala
+
+// let a = -2;
+
+// if(a>0){
+//     console.log(a*3);
+// }else{
+//     console.log(a/3);
+// }
+
+// 14-masala
+
+// let a = 14;
+// let b = 12;
+
+// if(a>b){
+//     console.log("A katta");
+// }else{
+//     console.log("B katta");
+// }
+
+// 15-masala
+
+
 
