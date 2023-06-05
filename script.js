@@ -1,20 +1,20 @@
-1-masala
-let a=10;
+// 1-masala
+// let a=10;
 
-if (a > 0) {
-  console.log("True");
-} else {
-  console.log("False");
-}
-
-// 2-masala
-
-// let a = 3;
-// if(a%2==!0){
-//     console.log('Toq son');
-// } else{
-//     console.log('Juft son');
+// if (a > 0) {
+//   console.log("True");
+// } else {
+//   console.log("False");
 // }
+
+2-masala
+
+let a = 3;
+if(a%2==!0){
+    console.log('Toq son');
+} else{
+    console.log('Juft son');
+}
 
 // 3-masala
 
