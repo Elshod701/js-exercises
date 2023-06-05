@@ -7,24 +7,24 @@
 //   console.log("False");
 // }
 
-2-masala
+// 2-masala
 
-let a = 3;
-if(a%2==!0){
-    console.log('Toq son');
-} else{
-    console.log('Juft son');
-}
-
-// 3-masala
-
-// let a = 4;
-
-// if(a%2==0){
-//     console.log('Juft son');
-// } else{
+// let a = 3;
+// if(a%2==!0){
 //     console.log('Toq son');
+// } else{
+//     console.log('Juft son');
 // }
+
+3-masala
+
+let a = 4;
+
+if(a%2==0){
+    console.log('Juft son');
+} else{
+    console.log('Toq son');
+}
 
 // 4-masala
 
